@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.globalguru.ggkhata",
+        "sha256_cert_fingerprints": ["5C:30:39:33:6B:D7:87:22:B9:B0:14:99:88:99:21:04:54:E9:6E:26:D2:90:78:A5:88:8A:7D:F7:0F:0E:24:71"]
+      }
+    }]
